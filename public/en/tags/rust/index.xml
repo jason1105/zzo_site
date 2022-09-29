@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>rust on Hugo Zzo Theme</title>
+    <link>http://example.org/en/tags/rust/</link>
+    <description>Recent content in rust on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
+    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 19 Jun 2021 23:52:00 +0800</lastBuildDate>
+    
+        <atom:link href="http://example.org/en/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Rust Programming Language</title>
+        <link>http://example.org/en/posts/rust/</link>
+        <pubDate>Sat, 19 Jun 2021 23:52:00 +0800</pubDate>
+        <author>zzossig@gmail.com (zzossig)</author>
+        <atom:modified>Sat, 19 Jun 2021 23:52:00 +0800</atom:modified>
+        <guid>http://example.org/en/posts/rust/</guid>
+        <description>RUST choco install visualstudio2019buildtools 注意 windows 下定位安装文件最好从具体盘符开始. 镜像资源 新建一个文件 ~/.cargo/config 1 2 3 4 5 6 [source.crates-io] replace-with = &amp;#39;tuna&amp;#39; [source.tuna] registry = &amp;#34;https://mirrors.tuna.tsinghua.edu.cn/git/crates.io-index.git&amp;#34; 构建帮助文档 cargo doc &amp;ndash;open 语法 语法 表示静态方法调用</description>
+        
+        <dc:creator>JasonLv</dc:creator>
+        <media:content url="http://example.orgimages/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>rust</category>
+            
+          
+        
+        
+          
+            
+              <category>Book</category>
+            
+          
+            
+              <category>Programming Language</category>
+            
+          
+        
+        
+          
+            
+              <category>Rust Programming Book</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
